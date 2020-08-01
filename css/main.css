@@ -308,7 +308,7 @@ position: relative; }
 .page .content .subhead:hover { color: #fff; }
 .page .content .subhead a { color: inherit; }
 /* 6.4 Clock countdown */
-.pane-when { position: fixed; left: 56px; top: 0; bottom: 0; right: 50%; }
+.pane-when {  left: 56px; top: 0; bottom: 0; right: 50%; }
 .pane-when:after { position: absolute; content: ""; top: 25%; right: 0; height: 50%; width: 1px; border-left: 1px solid #fff; }
 /* Logo */
 .pane-when .logo { width: 460px; margin: 0 auto; text-align: center; margin-top: -120px; position: relative; }
